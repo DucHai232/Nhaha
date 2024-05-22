@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "title": "Facts",
+        "des": "Find basic information, including how we’re organized, and where and how we do business.",
+        "image": "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1LM6y?ver=f0fc&q=90&m=6&h=291&w=517&b=%23FFFFFFFF&l=f&o=t&aim=true",
+        "path": "abc"
+    },
+    {
+        "id": 2,
+        "title": "News",
+        "des": "Catch all the latest headlines including news, features, events, and press releases from Microsoft.",
+        "image": "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1LOJO?ver=20ed&q=90&m=6&h=291&w=517&b=%23FFFFFFFF&l=f&o=t&aim=true"
+    },
+    {
+        "id": 3,
+        "title": "Worldwide locations",
+        "des": "Connect with our sales offices, and support and technology centers around the world.",
+        "image": "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2Bt6B?ver=8058&q=90&m=6&h=291&w=517&b=%23FFFFFFFF&l=f&o=t&aim=true"
+    },
+    {
+        "id": 4,
+        "title": "Procurement",
+        "des": "Learn about our commitment to our diverse supplier base.",
+        "image": "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2BLaZ?ver=b1d4&q=90&m=6&h=291&w=517&b=%23FFFFFFFF&l=f&o=t&x=285&y=59&aim=true"
+    },
+    {
+        "id": 5,
+        "title": "Legal and Compliance",
+        "des": "Find our policies and terms of use, plus information about compliance, intellectual property, and corporate governance.",
+        "image": "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2BGew?ver=eac5&q=90&m=6&h=291&w=517&b=%23FFFFFFFF&l=f&o=t&x=235&y=97&aim=true"
+    },
+    {
+        "id": 6,
+        "title": "Contact us",
+        "des": "Get in touch. We’re here to help.",
+        "image": "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1M1yx?ver=ee57&q=90&m=6&h=291&w=517&b=%23FFFFFFFF&l=f&o=t&aim=true"
+    }
+]

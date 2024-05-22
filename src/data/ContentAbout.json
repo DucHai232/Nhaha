@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "Our company",
+        "des": "Stay informed about Microsoft, from company facts and news to our worldwide locations and more.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdq7W8LWQx4dafliYRtoPVCV23bBr6EE41ZBbWfV1T2w&s",
+        "path": "our-company"
+    },
+    {
+        "id": 2,
+        "title": "Our Vision",
+        "des": "Get to know some of our people, explore engaging stories, and meet the leaders who shape our vision.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtMOoi72wwU0BMHcMayJZuRo_8MokQ60OFuYgkDpTiCw&s",
+        "path": "our-vision"
+    },
+    {
+        "id": 3,
+        "title": "Contact us",
+        "des": "See how we utilize technology to build platforms and resources to help make a lasting positive impact.",
+        "image": "https://media.istockphoto.com/id/1452771551/vector/contact-us-button-with-cursor-pointer-click-vector-web-button.jpg?s=612x612&w=0&k=20&c=IGWQ-VhsNAnZyKnuWhggHhpozUiuFRq5jd-rJ7-KqIc=",
+        "path": "our-philosophy"
+    }
+]

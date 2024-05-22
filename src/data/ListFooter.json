@@ -1,0 +1,64 @@
+[
+    {
+        "id": "footer-1",
+        "title": "What's new",
+        "listText": [
+            "Surface Laptop Studio 2",
+            "Surface Laptop Go 3",
+            "Surface Pro 9",
+            "Surface Laptop 5",
+            "Microsoft Copilot",
+            "Copilot in Windows"
+        ]
+    },
+    {
+        "id": "footer-2",
+        "title": "Business",
+        "listText": [
+            "Microsoft Cloud",
+            "Microsoft Security",
+            "Dynamics 365",
+            "Microsoft 365",
+            "Microsoft Power Platform",
+            "Microsoft Teams"
+        ]
+    },
+    {
+        "id": "footer-3",
+        "title": "Developer & IT",
+        "listText": [
+            "Azure",
+            "Developer Center",
+            "Documentation",
+            "Microsoft Learn",
+            "Microsoft Tech Community",
+            "Azure Marketplace"
+        ]
+    },
+    {
+        "id": "footer-4",
+        "title": "Company",
+        "listText": [
+            "Careers",
+            "About Microsoft",
+            "Company news",
+            "Investors",
+            "Diversity and inclusion",
+            "Accessibility"
+        ]
+    },
+    {
+        "id": "footer-5",
+        "title": "Education",
+        "listText": [
+            "Microsoft in education",
+            "Devices for education",
+            "Microsoft Teams for Education",
+            "Microsoft 365 Education",
+            "How to buy for your school",
+            "Educator training and development"
+        ]
+    }
+    
+
+]
