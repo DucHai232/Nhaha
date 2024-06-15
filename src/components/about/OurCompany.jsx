@@ -3,12 +3,11 @@ import ImageBanner from "./ImageBanner";
 import GridItem from "./GridItem";
 import listOurCompany from "../../data/OurCompany.json";
 import FollowSocial from "./FollowSocial";
+import CompanyOverview from "./CompanyOverview";
 const OurCompany = () => {
   return (
     <div>
-      <ImageBanner />
-      <GridItem data={listOurCompany} />
-      <FollowSocial />
+      <CompanyOverview />
     </div>
   );
 };

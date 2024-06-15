@@ -11,15 +11,15 @@ const HeaderAbout = () => {
         onClick={() => navigate(-1)}
       >
         <ArrowBackIosIcon />
-        <span className="ml-5">Back</span>
+        <span className="ml-5">Trở về</span>
       </div>
       <div className="flex absolute top-0 right-24">
-        <span className="cursor-pointer">All Nhaha</span>
+        <span className="cursor-pointer">Nhaha</span>
         <p className="ml-5 items-center cursor-pointer">
           <span className="text-[#ccc]">
             <SearchIcon />
           </span>
-          <span>Search</span>
+          <span>Tìm kiếm</span>
         </p>
       </div>
     </div>

@@ -1,0 +1,112 @@
+.companyoverview-container .header{
+    font-size: 24px;
+    padding: 12px;
+    border-bottom: 3px solid #9f1f24;
+}
+
+.companyoverview-container .list-data ul {
+    list-style-type: none;
+}
+
+.companyoverview-container .list-data ul li {
+    height: 70px;
+    padding: 12px;
+    border-bottom: 2px solid lightgray;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+}
+
+.companyoverview-container .list-data ul li strong {
+    width: 200px;
+}
+
+.companyoverview-container .list-data ul li span, 
+.companyoverview-container .list-data ul li a, 
+.companyoverview-container .list-data ul li div{
+   flex: 6;
+   text-align: left;
+   margin-left: 100px;
+}
+
+/* Our vision */
+
+.ourvision-container .header h1{
+    font-size: 4.5em;
+    color: #00a9e0;
+}
+
+.ourvision-container .header h3{
+    font-size: 1.8em;
+    color: #002677;
+}
+
+.ourvision-container .header p {
+    color: #222;
+    line-height: 1.5;
+    max-width: 800px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.body1 {
+    display: flex;
+    margin-top: 48px;
+}
+
+.body1 .left{
+    margin-right: 48px;
+}
+
+.body1 .left header{
+    font-size: 1.8em;
+    color: #002677;
+    border-top: 3px solid #002677;
+    margin-bottom: 24px;
+}
+
+.body1 .left .des ul li {
+    list-style-type: decimal;
+    margin-bottom: 24px;
+}
+
+.body1 .right img{
+    border-radius: 4px;
+}
+
+.ourvision-container .body2{
+    display: flex;
+}
+
+.ourvision-container .body2 .left h1{
+    color: #002677;
+    font-size: 48px;
+    max-width: 888px;
+}
+
+.ourvision-container .body2 .left  p{
+    color: #767676;
+    text-decoration: lowercase;
+    letter-spacing: 1.75px;
+    font-size: 16px;
+}
+.ourvision-container .body2 .right img{
+    max-height: 500px;
+    object-fit: cover;
+    width: 500px;
+}
+
+.ourvision-container .body2 .right img::after{
+    background: linear-gradient(84.18deg, #fff 10.79%, rgba(255, 255, 255, 0) 53.13%);
+}
+
+/* ourphilosophy-container */
+.ourphilosophy-container .title{
+    font-size: 4rem;
+}
+
+.ourphilosophy-container .banner {
+    background-image: url("https://www.teijin-nakashima.co.jp/en/cp/mvv/img/mvv_im01.jpg");
+    height: 600px;
+    object-fit: cover;
+}
