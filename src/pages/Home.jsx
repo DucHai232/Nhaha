@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import { Carousel } from "antd";
 import PickUp from "../components/home/PickUp";
 import NewReleases from "../components/home/NewReleases";
+import CoreValues from "../components/home/CoreValues";
 const listImages = [
   "https://previews.123rf.com/images/jameschipper/jameschipper1207/jameschipper120700019/14417234-business-people-background.jpg",
   "https://img.freepik.com/free-vector/realistic-neon-lights-background_23-2148907367.jpg",
@@ -26,8 +27,9 @@ const Home = () => {
           ))}
         </Carousel>
       </div>
-      <PickUp />
-      <NewReleases />
+      <CoreValues />
+      {/* <PickUp />
+      <NewReleases /> */}
     </>
   );
 };

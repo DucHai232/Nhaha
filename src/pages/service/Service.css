@@ -1,0 +1,84 @@
+.banner{
+    background-image: url("https://www.new-work.se/NWSE/Karriere/Web_2022/10243/image-thumb__10243__stage_image-wide/img-stage--start.webp");
+    height: 100vh;
+    position: relative;
+}
+
+.content {
+    position: absolute;
+    top: 40%;
+    left: 8%;
+}
+
+.banner .title {
+    color: white;
+    font-size: 48px;
+
+
+}
+
+.banner .des{
+    margin-top: 24px;
+    color: white;
+    font-size: 18px;
+    max-width: 900px;
+}
+
+.list-services{
+    display: flex;
+    flex-direction: row;
+    gap: 12px;
+    margin: 32px 12px;
+}
+
+.list-services .left{
+    flex: 6;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 12px;
+}
+
+.service {
+    border: 1px solid lightgray;
+    display: flex;
+    align-items: center;
+   position: relative;
+    height: auto;
+    padding: 30px;
+    border-radius: 8px;
+    /* max-height: 30px; */
+}
+
+.service:nth-of-type(3) {
+    /* margin-top: -250px; */
+}
+.service:hover .icon{
+    color: lightseagreen;
+    transition: 0.4s;
+}
+.service .image{
+    position: absolute;
+    height: 120px;
+}
+.service .icon{
+    font-size: 40px;
+    position: absolute;
+    right: 10%;
+    top: 42%;
+}
+
+.list-services .right{
+    flex: 6;
+}
+
+.right .des{
+    background-color: #007b80;
+    padding: 24px;
+    color: white;
+    height: 200px;
+}
+
+.active {
+    color: lightseagreen;
+    box-shadow: 3px 1px 3px 1px lightseagreen;
+}

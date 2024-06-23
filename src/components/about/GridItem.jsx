@@ -16,7 +16,15 @@ const GridItem = ({ data }) => {
       columns={{ xs: 4, sm: 8, md: 12 }}
     >
       {data.map((item) => (
-        <Grid item xs={2} sm={4} md={4} key={item.id}>
+        <Grid
+          item
+          xs={2}
+          sm={4}
+          md={4}
+          key={item.id}
+          style={{ cursor: "pointer" }}
+          onClick={() => navigate(`${item.path}`)}
+        >
           <Card sx={{ maxWidth: 345, height: 350 }} className="relative">
             <CardMedia
               sx={{ height: 140 }}
@@ -31,11 +39,6 @@ const GridItem = ({ data }) => {
                 {item.des}
               </Typography>
             </CardContent>
-            <CardActions className="absolute bottom-0">
-              <Button size="small" onClick={() => navigate(`${item.path}`)}>
-                Learn More
-              </Button>
-            </CardActions>
           </Card>
         </Grid>
       ))}
